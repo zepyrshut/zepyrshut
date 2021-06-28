@@ -24,10 +24,10 @@ Reparación, mantenimiento y configuración de sistemas informáticos. Reparacio
 **2016 - 2021** - **Taberna Capitán Salitre / Salistrao S.L.**
 Administración de empresa, facturación, inventario y trabajadores. A su vez que también la gerencia de un restaurante las épocas de temporada alta.
 
-**2016** - **Requena y Merina.**
+**2016** - **Requena y Merina**
 Una pequeña empresa de montaje y construcción de naves industriales, en el que mi función era pasar los modelos 2D diseñados por el arquitecto a modelos en 3D fotorealistas.
 
-**2014** - **Requena y Merina.**
+**2014** - **Inforfon PC**
 Resolución de diversos problemas técnico que iban ocurriendo dentro de la empresa, a su vez, el montaje e instalación de equipos de red, control y gestión de copias de seguridad.
 
 ## Interesa
