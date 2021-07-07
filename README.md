@@ -37,6 +37,4 @@ Resolución de diversos problemas técnico que iban ocurriendo dentro de la empr
  - Hablo y entiendo perfectamente con el apoyo de la lectura labial.
  - Permisos A y B, con vehículos propios.
 
-Para finalizar, no tengo completados mis estudios de Publicidad y RRPP, debido a que empecé a trabajar en Capitán Salitre y no era capaz de compaginar estudios con el trabajo. Y en Desarrollo de Aplicaciones Multiplataforma, dejé el curso en pro de un importante proyecto relacionado con la Ing. electrónica, proyecto demostrable.
-
-
+Para finalizar, no tengo completados mis estudios de Publicidad y RRPP, debido a que empecé a trabajar en Capitán Salitre y no fui capaz de compaginar estudios con el trabajo. Y en Desarrollo de Aplicaciones Multiplataforma, dejé el curso en pro de un importante proyecto relacionado con la Ing. electrónica, proyecto demostrable, uso de tecnologías como Arduino y RaspberryPi de forma conjunta y desarrollo de una aplicación web englobando todo el contexto.
