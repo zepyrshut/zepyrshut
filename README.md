@@ -1,7 +1,8 @@
+
 # BIO
 👋 - Me llamo Pedro Pérez, y mi seudónimo es Zepyrshut o Zepyr. Un jovencillo del sur de España, apasionado del mundo de la informática, fundamentalmente la técnica, me he pasado la vida arreglando lo que los demás rompen.
 
-🌱 - Actualmente estoy cursando programación *Full Stack*, con los lenguajes de marcado, de estilo, lenguaje interpretado/compilado como JS y lenguajes más avanzados como Java, el uso y gestión de bases de datos SQL y Java EE. Espero que demos un poco de Angular cuando toque el desarrollo *Frontend*.
+🌱 - Actualmente estoy cursando programación *Full Stack*, con los lenguajes de marcado, de estilo, lenguaje interpretado/compilado como JS y lenguajes más avanzados como Java, el uso y gestión de bases de datos SQL y Java EE. Espero que demos un poco de Angular cuando toque el desarrollo *Front-end*.
 
 👀 - En un futuro me encantaría ser un informático programador, con muy buena base cargada de informática técnica, crecer y desarrollarme personalmente y laboralmente hasta que mi cuerpo y mente diga basta.
 
@@ -18,7 +19,7 @@
 
 ## Experiencia profesional
 
-**2016 - 2021** - **Técnico informático a particulares.**
+**2016 - 2021** - **Técnico informático a particulares**
 Reparación, mantenimiento y configuración de sistemas informáticos. Reparaciones de móviles y consolas. Montaje y reparación de impresoras 3D, diseño y creación de sitios web con CMS, reparación de impresoras y equipos de oficina. Montaje de redes cableadas e inalámbricas. Asesoramiento a empresa sobre sus necesidades informáticas (ordenadores y redes).
 
 **2016 - 2021** - **Taberna Capitán Salitre / Salistrao S.L.**
@@ -29,6 +30,22 @@ Una pequeña empresa de montaje y construcción de naves industriales, en el que
 
 **2014** - **Inforfon PC**
 Resolución de diversos problemas técnico que iban ocurriendo dentro de la empresa, a su vez, el montaje e instalación de equipos de red, control y gestión de copias de seguridad.
+
+## Habilidades prácticas y de interés
+
+**Programación:**
+ - **Programación orientada a objetos**: en proceso de aprendizaje, sobre todo el correcto uso del concepto de objeto, aplicando correctamente patrones de diseño donde procede, evitando caer en malas prácticas de diseño. Fundamentándose en los cuatro pilares de la POO y aplicando principios SOLID.
+ - **Java**: muy buen conocimiento de la sintaxis y su funcionamiento, en proceso de aprendizaje. Nivel más que competente, pese a que me queda mucho por aprender, sobre todo el manejo de Java EE.
+ - **C++**: no tanto como me gustaría, pero sí un control básico para su programación en placas Arduino.
+ - **JavaScript**: buenos conocimientos para el desarrollo *front-end* de un sitio web.
+ - **HTML y CSS**: aunque no son lenguajes de programación, tengo buenos conocimiento acerca de esos lenguajes para el desarrollo y maquetación web.
+
+**Impresión 3D:**
+Es mi afición principal, incluyendo habilidades con dominio absoluto como montaje, mantenimiento, programación de placas y mejoras de diversas impresoras 3D, sean delta o cartesianas, placas como Trigorilla, Einsy Rambo, Duet. Actualmente operando con dos Prusa MK3s+, una con sistema multimaterial mejorado y una Prusa Mini.
+
+**Lectura recomendada:**
+ - **JavaScript Guía completa**, de Alessandra Salvaggio y Gualtiero Testa.
+ - **Sumérgete en los patrones de diseño**, de Alexander Shvets.
 
 ## Interesa
 
