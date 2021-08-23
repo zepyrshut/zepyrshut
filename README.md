@@ -36,9 +36,9 @@ Resolución de diversos problemas técnico que iban ocurriendo dentro de la empr
 **Programación:**
  - **Programación orientada a objetos**: en proceso de aprendizaje, sobre todo el correcto uso del concepto de objeto, aplicando correctamente patrones de diseño donde procede, evitando caer en malas prácticas de diseño. Fundamentándose en los cuatro pilares de la POO y aplicando principios SOLID.
  - **Java**: muy buen conocimiento de la sintaxis y su funcionamiento, en proceso de aprendizaje. Nivel más que competente, pese a que me queda mucho por aprender, sobre todo el manejo de Java EE.
- - **C++**: no tanto como me gustaría, pero sí un control básico para su programación en placas Arduino.
+ - **C++**: nivel básico para su implementación en placas Arduino.
  - **JavaScript**: buenos conocimientos para el desarrollo *front-end* de un sitio web.
- - **HTML y CSS**: aunque no son lenguajes de programación, tengo buenos conocimiento acerca de esos lenguajes para el desarrollo y maquetación web.
+ - **HTML y CSS**: aunque no son lenguajes de programación, buenos conocimiento acerca de esos lenguajes para el desarrollo y maquetación web.
 
 **Cursos adiccionales:**
 - **GIT+GitHub**: Curso online orientado a los fundamentos de Git, sus comandos y utilidades, casos de uso, conflictos, ramas, *stash* y *rebase*. Recuperación de proyectos, resolución de conflictos y viajes en el tiempo - 10 horas.
