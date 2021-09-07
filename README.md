@@ -1,4 +1,3 @@
-
 # BIO
 👋 - Me llamo Pedro Pérez, y mi seudónimo es Zepyrshut o Zepyr. Un jovencillo del sur de España, apasionado del mundo de la informática, fundamentalmente la técnica, me he pasado la vida arreglando lo que los demás rompen.
 
@@ -41,12 +40,12 @@ Resolución de diversos problemas técnico que iban ocurriendo dentro de la empr
  - **HTML y CSS**: aunque no son lenguajes de programación, buenos conocimiento acerca de esos lenguajes para el desarrollo y maquetación web.
 
 **Cursos adiccionales:**
-- **GIT+GitHub**: Curso online orientado a los fundamentos de Git, sus comandos y utilidades, casos de uso, conflictos, ramas, *stash* y *rebase*. Recuperación de proyectos, resolución de conflictos y viajes en el tiempo - 12 horas.
+- **GIT+GitHub**: Curso online orientado a los fundamentos de Git, sus comandos y utilidades, casos de uso, ramas, *stash* y *rebase*. Recuperación de proyectos, resolución de conflictos y viajes en el tiempo - 12 horas.
 
 **Impresión 3D:**
-Es mi afición principal, incluyendo habilidades con dominio absoluto como montaje, mantenimiento, programación de placas y mejoras de diversas impresoras 3D, sean delta o cartesianas, placas como Trigorilla, Einsy Rambo, Duet. Actualmente operando con dos Prusa MK3s+, una con sistema multimaterial mejorado y una Prusa Mini.
+- Es mi afición principal, incluyendo habilidades con dominio absoluto como montaje, mantenimiento, programación de placas y mejoras de diversas impresoras 3D, sean delta o cartesianas, placas como Trigorilla, Einsy Rambo, Duet. Actualmente operando con dos Prusa MK3s+, una con sistema multimaterial mejorado y una Prusa Mini.
 
-**Lectura recomendada:**
+**Lecturas recomendadas:**
  - **JavaScript Guía completa**, de Alessandra Salvaggio y Gualtiero Testa.
  - **Sumérgete en los patrones de diseño**, de Alexander Shvets.
  - **Código limpio**, de Robert C. Martin.
@@ -58,4 +57,4 @@ Es mi afición principal, incluyendo habilidades con dominio absoluto como monta
  - Hablo y entiendo perfectamente con el apoyo de la lectura labial.
  - Permisos A y B, con vehículos propios.
 
-Para finalizar, no tengo completados mis estudios de Publicidad y RRPP, debido a que empecé a trabajar en Capitán Salitre y no fui capaz de compaginar estudios con el trabajo. Y en Desarrollo de Aplicaciones Multiplataforma, dejé el curso en pro de un importante proyecto relacionado con la Ing. electrónica, proyecto demostrable, uso de tecnologías como Arduino y RaspberryPi de forma conjunta y desarrollo de una aplicación web englobando todo el contexto.
+Para aclarar, no tengo completados mis estudios de Publicidad y RRPP, sólo el primer año. Y en Desarrollo de Aplicaciones Multiplataforma, dejé el curso en pro de un importante proyecto relacionado con la Ing. electrónica, proyecto demostrable, uso de tecnologías como Arduino y RaspberryPi de forma conjunta y desarrollo de una aplicación web englobando todo el contexto.
