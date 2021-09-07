@@ -41,7 +41,7 @@ Resolución de diversos problemas técnico que iban ocurriendo dentro de la empr
  - **HTML y CSS**: aunque no son lenguajes de programación, buenos conocimiento acerca de esos lenguajes para el desarrollo y maquetación web.
 
 **Cursos adiccionales:**
-- **GIT+GitHub**: Curso online orientado a los fundamentos de Git, sus comandos y utilidades, casos de uso, conflictos, ramas, *stash* y *rebase*. Recuperación de proyectos, resolución de conflictos y viajes en el tiempo - 10 horas.
+- **GIT+GitHub**: Curso online orientado a los fundamentos de Git, sus comandos y utilidades, casos de uso, conflictos, ramas, *stash* y *rebase*. Recuperación de proyectos, resolución de conflictos y viajes en el tiempo - 12 horas.
 
 **Impresión 3D:**
 Es mi afición principal, incluyendo habilidades con dominio absoluto como montaje, mantenimiento, programación de placas y mejoras de diversas impresoras 3D, sean delta o cartesianas, placas como Trigorilla, Einsy Rambo, Duet. Actualmente operando con dos Prusa MK3s+, una con sistema multimaterial mejorado y una Prusa Mini.
@@ -49,7 +49,7 @@ Es mi afición principal, incluyendo habilidades con dominio absoluto como monta
 **Lectura recomendada:**
  - **JavaScript Guía completa**, de Alessandra Salvaggio y Gualtiero Testa.
  - **Sumérgete en los patrones de diseño**, de Alexander Shvets.
- - **Código limpio, de Robert C. Martin.
+ - **Código limpio**, de Robert C. Martin.
 
 ## Interesa
 
