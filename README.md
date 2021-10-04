@@ -38,6 +38,7 @@ Resolución de diversos problemas técnico que iban ocurriendo dentro de la empr
  - **C++**: nivel básico para su implementación en placas Arduino.
  - **JavaScript**: buenos conocimientos para el desarrollo *front-end* de un sitio web.
  - **HTML y CSS**: aunque no son lenguajes de programación, buenos conocimiento acerca de esos lenguajes para el desarrollo y maquetación web.
+ - Puedes ver mis Gist [aquí](https://gist.github.com/zepyrshut).
 
 **Cursos adiccionales:**
 - **GIT+GitHub**: Curso online orientado a los fundamentos de Git, sus comandos y utilidades, casos de uso, ramas, *stash* y *rebase*. Recuperación de proyectos, resolución de conflictos y viajes en el tiempo - 12 horas.
