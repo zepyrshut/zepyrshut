@@ -1,9 +1,9 @@
 # BIO
 👋 - Me llamo Pedro Pérez, y mi seudónimo es Zepyrshut o Zepyr. Un jovencillo del sur de España, apasionado del mundo de la informática, fundamentalmente la técnica, me he pasado la vida arreglando lo que los demás rompen.
 
-🌱 - Actualmente estoy cursando programación *Full Stack*, con los lenguajes de marcado, de estilo, lenguaje interpretado/compilado como JS y lenguajes más avanzados como Java, el uso y gestión de bases de datos SQL y Java EE. Espero que demos un poco de Angular cuando toque el desarrollo *Front-end*.
+🌱 - Actualmente estoy cursando programación *Full Stack*, con los lenguajes de marcado, de estilo, lenguaje interpretado/compilado como JS y lenguajes más avanzados como Java, el uso y gestión de bases de datos SQL, Java EE y finalmente el uso de *frameworks* como *Spring* y *Angular*.
 
-👀 - En un futuro me encantaría ser un informático programador, con muy buena base cargada de informática técnica, crecer y desarrollarme personalmente y laboralmente hasta que mi cuerpo y mente diga basta.
+👀 - En un futuro me encantaría ser informático programador, con muy buena base cargada de informática técnica, crecer y desarrollarme personalmente y laboralmente hasta que mi cuerpo y mente diga basta.
 
 📫 - Puedes contactar conmigo a través de mi 📧[correo electrónico](mailto:pedro@zepyrshut.com), o bien, a través de mi 💻[Telegram](https://t.me/zepyr).
 
@@ -37,7 +37,8 @@ Resolución de diversos problemas técnico que iban ocurriendo dentro de la empr
  - **Java**: muy buen conocimiento de la sintaxis y su funcionamiento, en proceso de aprendizaje. Nivel más que competente, pese a que me queda mucho por aprender, sobre todo el manejo de Java EE.
  - **C++**: nivel básico para su implementación en placas Arduino.
  - **JavaScript**: buenos conocimientos para el desarrollo *front-end* de un sitio web.
- - **HTML y CSS**: aunque no son lenguajes de programación, buenos conocimiento acerca de esos lenguajes para el desarrollo y maquetación web.
+ - **TypeScript**: tres cuarto de lo mismo, para el desarrollo de Angular.
+ - **HTML y CSS**: aunque no son lenguajes de programación, buenos conocimientos acerca de esos lenguajes para el desarrollo y maquetación web.
  - Puedes ver mis Gist [aquí](https://gist.github.com/zepyrshut).
 
 **Cursos adiccionales:**
@@ -57,5 +58,3 @@ Resolución de diversos problemas técnico que iban ocurriendo dentro de la empr
  - Hipoacusia bilateral profunda. 
  - Hablo y entiendo perfectamente con el apoyo de la lectura labial.
  - Permisos A y B, con vehículos propios.
-
-Para aclarar, no tengo completados mis estudios de Publicidad y RRPP, sólo el primer año. Y en Desarrollo de Aplicaciones Multiplataforma, dejé el curso en pro de un importante proyecto relacionado con la Ing. electrónica, proyecto demostrable, uso de tecnologías como Arduino y RaspberryPi de forma conjunta y desarrollo de una aplicación web englobando todo el contexto.
