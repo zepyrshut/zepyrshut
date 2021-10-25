@@ -42,7 +42,8 @@ Resolución de diversos problemas técnico que iban ocurriendo dentro de la empr
  - Puedes ver mis Gist [aquí](https://gist.github.com/zepyrshut).
 
 **Cursos adiccionales:**
-- **GIT+GitHub**: Curso online orientado a los fundamentos de Git, sus comandos y utilidades, casos de uso, ramas, *stash* y *rebase*. Recuperación de proyectos, resolución de conflictos y viajes en el tiempo - 12 horas.
+- **GIT+GitHub**: Fundamentos de Git, sus comandos y utilidades, casos de uso, ramas, *stash* y *rebase*. Recuperación de proyectos, resolución de conflictos y viajes en el tiempo - 12 horas.
+- **Java 8, programación funcional**: Programación en Java funcional con expresión Lambdas y *streams* - 4,5 horas.
 
 **Impresión 3D:**
 - Es mi afición principal, incluyendo habilidades con dominio absoluto como montaje, mantenimiento, programación de placas y mejoras de diversas impresoras 3D, sean delta o cartesianas, placas como Trigorilla, Einsy Rambo, Duet. Actualmente operando con dos Prusa MK3s+, una con sistema multimaterial mejorado y una Prusa Mini.
