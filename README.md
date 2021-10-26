@@ -11,7 +11,7 @@
 ## Estudios
 
  - **2021 - Actualidad** - Curso de programación FullStack Dev - 825 horas.
- - **2017 - 2018** - CFGS Desarrollo de aplicaciones multiplataforma. Huelva.
+ - **2017 - 2019** - CFGS Desarrollo de aplicaciones multiplataforma. Huelva.
  - **2016 - 2017** - Grado en Publicidad y RRPP. Facultad de Comunicación, Sevilla.
  - **2014 - 2016** - CFGS Animaciones 3D, juegos y entornos interactivos. Córdoba.
  - **2012 - 2014** - CFGM Sistemas microinformáticos y redes. Huelva.
