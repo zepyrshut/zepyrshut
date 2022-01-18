@@ -1,5 +1,5 @@
 # BIO
-👋 - Me llamo Pedro Pérez, y mi seudónimo es Zepyrshut o Zepyr. Un jovencillo del sur de España, apasionado del mundo de la informática, fundamentalmente la técnica, me he pasado la vida arreglando lo que los demás rompen.
+👋 - Me llamo Pedro Pérez. Mi mayor aspiración actual es debutar como informático programador de forma profesional. En constante aprendizaje y reciclaje con las nuevas tecnologías.
 
 📫 - Puedes contactar conmigo a través de mi 📧[correo electrónico](mailto:pedro@zepyrshut.com), o bien, a través de mi 💻[Telegram](https://t.me/zepyr).
 
@@ -20,15 +20,17 @@
 
 **2014** - **Inforfon PC**
 
+También he tenido otros empleos y gestionado una SL durante dos años, pero no son relevantes para los puestos que aspiro.
+
 ## Conocimientos
 
  - **Programación orientada a objetos**
  - **Java 11** | **Java EE 8** | **Maven** | **Spring Boot** | **Hibernate**
- - **Angular**
+ - **MySQL** | **Postgres** | **MariaDB** | **H2**
  - **Microservicios SOAP | REST**
  - **Go**
  - **HTML** y **CSS**
- - **UIKit** | **Bootstrap**
+ - **UIKit** | **Bootstrap** | **Thymeleaf**
  - **JavaScript** | **TypeScript**
  - Puedes ver mis Gist [aquí](https://gist.github.com/zepyrshut).
 
