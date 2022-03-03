@@ -35,7 +35,7 @@ También he tenido otros empleos y gestionado una SL durante dos años, pero no 
  - **HTML** y **CSS**
  - **UIKit** | **Bootstrap** | **Thymeleaf**
  - **JavaScript** | **TypeScript**
- - **pfSense** | **D
+ - **Hypervisor XCP-ng** | **pfSense** | **XenOrchestra**
  - Puedes ver mis Gist [aquí](https://gist.github.com/zepyrshut).
 
 ## Interesa
