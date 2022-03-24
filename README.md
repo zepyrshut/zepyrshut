@@ -1,46 +1,67 @@
-# BIO
-👋 - Me llamo Pedro Pérez. En constante aprendizaje y reciclaje con las nuevas tecnologías.
+<h2 align="center">Hi 👋, I'm Pedro Pérez</h1>
+&nbsp;
+<p align="center">I'm geek, not nerd. Very lazy, work smart, not hard.</p>
 
-📫 - Puedes contactar conmigo a través de mi 📧[correo electrónico](mailto:pedro@zepyrshut.com), o bien, a través de mi 💻[Telegram](https://t.me/zepyr).
+<hr>
+&nbsp;
+<h2  align="center">⚙ Factótum</h2>
+&nbsp;
+<h3 align="center">Back </h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-2965f1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-# CV
-## Estudios
+</p>
 
- - **2021 - 2022** - Curso de programación FullStack Dev - 825 horas.
- - **2017 - 2019** - CFGS Desarrollo de aplicaciones multiplataforma. Huelva.
- - **2016 - 2017** - Grado en Publicidad y RRPP. Facultad de Comunicación, Sevilla.
- - **2014 - 2016** - CFGS Animaciones 3D, juegos y entornos interactivos. Córdoba.
- - **2012 - 2014** - CFGM Sistemas microinformáticos y redes. Huelva.
+<h3 align="center"> Front </h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Thymeleaf-059000?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-00a228?style=for-the-badge&logo=spring&logoColor=white"/>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-ffa500?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-## Experiencia profesional
 
-**2022 - actualidad** - **Administrador de sistemas | desarrollo de servicios y aplicaciones web**
+<h3 align="center"> Deploys </h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
+&nbsp;
+<hr>
+&nbsp;
+<h2  align="center">📫 Reach me on</h2>
+&nbsp;
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/pedro-pérez-banda/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:info@pedroperez.dev?subject=Hello%2Pedro!,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-**2016 - 2021** - **Técnico informático a particulares**, autónomo
+&nbsp;
+<hr>
+&nbsp;
+&nbsp;
 
-**2016** - **Requena y Merina**
+<h2  align="center">📈 Stats</h2>
+&nbsp;
+ <p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zepyrshut" alt="zepyrshut" />
+ </p>
 
-**2014** - **Inforfon PC**
-
-También he tenido otros empleos y gestionado una SL durante dos años, pero no son relevantes para los puestos que aspiro.
-
-## Conocimientos
-
- - **Programación orientada a objetos**
- - **Java 11** | **Java EE 8** | **Maven** | **Spring Boot** | **Hibernate**
- - **Dart** | **Flutter**
- - **MySQL** | **Postgres** | **MariaDB** | **H2**
- - **Microservicios SOAP | REST**
- - **Go**
- - **HTML** y **CSS**
- - **UIKit** | **Bootstrap** | **Thymeleaf**
- - **JavaScript** | **TypeScript**
- - **Hypervisor XCP-ng** | **pfSense** | **XenOrchestra**
- - Puedes ver mis Gist [aquí](https://gist.github.com/zepyrshut).
-
-## Interesa
-
- - Discapacidad reconocida del 43%. 
- - Hipoacusia bilateral profunda. 
- - Hablo y entiendo perfectamente con el apoyo de la lectura labial.
- - Permisos A y B, con vehículos propios.
+<h2  align="center">📚 Books I've read </h2>
+&nbsp;
+ <p align="center">
+ <p align="center">El limpiadro de código
+<p align="center">Código limpio
+<p align="center">Arquitectura limpia
+<p align="center">El mítico Hombre-Mes
+ </p>
