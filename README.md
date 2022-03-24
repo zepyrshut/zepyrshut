@@ -2,7 +2,6 @@
 &nbsp;
 <p align="center">I'm geek, not nerd. Very lazy, work smart, not hard.</p>
 
-<hr>
 &nbsp;
 <h2  align="center">⚙ Factótum</h2>
 &nbsp;
@@ -37,7 +36,6 @@
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 &nbsp;
-<hr>
 &nbsp;
 <h2  align="center">📫 Reach me on</h2>
 &nbsp;
@@ -47,7 +45,6 @@
 </p>
 
 &nbsp;
-<hr>
 &nbsp;
 &nbsp;
 
