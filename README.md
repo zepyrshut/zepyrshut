@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Pedro Pérez</h1>
 &nbsp;
-<p align="center">I'm geek, not nerd. Very lazy, work smart, not hard.</p>
+<p align="center">I'm geek, not nerd. Very lazy, I work smart, not hard.</p>
 
 &nbsp;
 <h2  align="center">⚙ Factótum</h2>
