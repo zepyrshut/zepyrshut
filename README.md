@@ -28,12 +28,14 @@
 <img src="https://img.shields.io/badge/HTML5-ffa500?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
-
-
 <h3 align="center"> Deploys </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
+<h3 align="center"> Trash </h3>
+<p align="center">
+<img src="https://img.shields.io/badge/PHP-787CB5?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 &nbsp;
 &nbsp;
