@@ -18,7 +18,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue-41B883?style=for-the-badge&logo=vue&logoColor=white"/>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Thymeleaf-059000?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
@@ -27,6 +27,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-ffa500?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JS-F0DB4F?style=for-the-badge&logo=js&logoColor=white"/>
 </p>
 <h3 align="center"> Deploys </h3>
 <p align="center">
