@@ -65,6 +65,7 @@
 &nbsp;
 &nbsp;
 
+<!-- 
 <h2  align="center">📈 Stats</h2>
 <p align="center">By number of repositories</p>
 
@@ -92,4 +93,4 @@ pie showData title Frameworks, tools and libraries
 <p align="center">Código limpio</p>
 <p align="center">Arquitectura limpia</p>
 <p align="center">El mítico Hombre-Mes</p>
-<p align="center">El programador pragmático</p>
+<p align="center">El programador pragmático</p> -->
