@@ -9,27 +9,25 @@
 
 <h3 align="center">Back </h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-a4b4c7?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 <h3 align="center"> Front </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%2f74c0"/>
 </p>
 <h3 align="center"> Frameworks and libraries </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Svelte-f73c00?style=for-the-badge&logo=svelte&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Gin_Gonic-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Thymeleaf-059000?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-00a228?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 <h3 align="center">Mobile</h3>
 <p align="center">
@@ -46,7 +44,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 <h3 align="center"> I don't like </h3>
 <p align="center">
