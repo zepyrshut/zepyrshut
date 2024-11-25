@@ -25,7 +25,6 @@
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Gin_Gonic-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Golden_Hammer-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 <h3 align="center">Mobile</h3>
 <p align="center">  
